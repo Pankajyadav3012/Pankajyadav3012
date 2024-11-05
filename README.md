@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7591D&width=435&lines=Hi,+I+am+Pankaj Kumar Yadav;Welcome+to+my+GitHub Profile!" alt="Typing SVG" />
+</p>
+
+
+
 Hi there! 👋 I'm Pankaj Kumar Yadav (@Pankajyadav3012).
 Interests: Data Science, Machine Learning, Data Analytics, and generative AI for impactful solutions.
 Current Focus: Advancing in Python, SQL, Power BI, and machine learning techniques.
