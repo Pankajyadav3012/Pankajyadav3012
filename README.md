@@ -1,7 +1,5 @@
-Hi there! 👋 I'm Pankaj Kumar Yadav (@Pankajyadav3012)
-
+Hi there! 👋 I'm Pankaj Kumar Yadav (@Pankajyadav3012).
 Interests: Data Science, Machine Learning, Data Analytics, and generative AI for impactful solutions.
-
 Current Focus: Advancing in Python, SQL, Power BI, and machine learning techniques.
 Experience: Senior System Engineer at Cognizant (technical support and efficiency solutions) and former Associate Analyst at GlobalLogic (content engineering optimization).
 Collaborations: Open to data-driven projects, predictive modeling, and analytics-related open-source contributions.
