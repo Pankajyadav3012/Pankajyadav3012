@@ -1,16 +1,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=335eff&width=435&lines=Hi,+I+am+Pankaj Kumar Yadav;Welcome+to+my+GitHub Profile!" alt="Typing SVG" />
 </p>
+--->
+
+👋 About Me
+I’m a data enthusiast with a solid foundation in Data Science, Machine Learning, and Data Analytics. i am having 3.5 years of experience in IT industry with Cognizant(as a Senior System Engineer) and Globallogic(as a Associate Analyst Content Engineer), I bring a unique blend of technical skills and industry experience. Passionate about uncovering actionable insights, I specialize in transforming complex data into impactful strategies. My journey in data science has involved diverse projects in predictive modeling, data visualization, and strategic analysis, all aimed at enabling data-driven decisions that drive results.
 
 
 
-Hi there! 👋 I'm Pankaj Kumar Yadav (@Pankajyadav3012).
-Interests: Data Science, Machine Learning, Data Analytics, and generative AI for impactful solutions.
-Current Focus: Advancing in Python, SQL, Power BI, and machine learning techniques.
-Experience: Senior System Engineer at Cognizant (technical support and efficiency solutions) and former Associate Analyst at GlobalLogic (content engineering optimization).
-Collaborations: Open to data-driven projects, predictive modeling, and analytics-related open-source contributions.
-Skills: Python, SQL, Power BI, Excel, Machine Learning
-Recent Project: Sales Forecasting leveraging Python, NumPy, Pandas, and Matplotlib for data-driven marketing insights. GitHub.
-Connect: LinkedIn | Email
-Let’s connect and make an impact with data! 🚀
 --->
